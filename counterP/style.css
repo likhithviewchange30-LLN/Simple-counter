@@ -1,0 +1,43 @@
+#box{
+    border: 1px solid black;
+    width: 30vw;
+    height: 30vh;
+    padding: 20px;
+    text-align: center;
+   
+}
+#num{
+    font-size: 50px;
+}
+button{
+   padding: 6px; 
+   margin-top: 50px;
+   width: 30%;
+   font-size: 16px;
+}
+#btn-d{
+    background-color: rgb(223, 6, 6);
+    color: aliceblue;
+    transition: all 0.5s ease;
+}
+#btn-r{
+    background-color: rgb(78, 44, 233);
+    color: aliceblue;
+    transition: all 1s ease;
+
+}
+#btn-i{
+    background-color: rgb(63, 209, 63);
+    color: aliceblue;
+    transition: all 1s ease;
+}
+#btn-d:hover{
+    background-color: rgb(239, 243, 14);
+}
+#btn-r:hover{
+    background-color: rgb(239, 243, 14);
+}
+#btn-i:hover{
+    background-color: rgb(239, 243, 14);
+}
+
